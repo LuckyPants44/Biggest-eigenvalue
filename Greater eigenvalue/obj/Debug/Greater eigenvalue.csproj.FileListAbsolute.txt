@@ -1,0 +1,8 @@
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\bin\Debug\Greater eigenvalue.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\bin\Debug\Greater eigenvalue.exe
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\bin\Debug\Greater eigenvalue.pdb
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\obj\Debug\Greater eigenvalue.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\obj\Debug\Greater_eigenvalue.Properties.Resources.resources
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\obj\Debug\Greater eigenvalue.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\obj\Debug\Greater eigenvalue.exe
+c:\users\1\documents\visual studio 2015\Projects\Greater eigenvalue\Greater eigenvalue\obj\Debug\Greater eigenvalue.pdb
